@@ -1,0 +1,22 @@
+{
+  "name": "ahui-skills",
+  "owner": {
+    "name": "1264109468ahui-hue"
+  },
+  "metadata": {
+    "description": "阿辉的个人 Claude Code 技能库 · Personal distilled skill library",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "提问",
+      "description": "AI 提问教练。把模糊需求变成精准 prompt，让 AI 给出更好的回答。",
+      "source": "./",
+      "strict": false,
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": ["prompt", "coaching", "clarification", "ai", "chinese"],
+      "skills": ["./提问"]
+    }
+  ]
+}
