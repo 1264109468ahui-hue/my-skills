@@ -9,8 +9,8 @@
   },
   "plugins": [
     {
-      "name": "提问",
-      "description": "AI 提问教练。把模糊需求变成精准 prompt，让 AI 给出更好的回答。",
+      "name": "ask",
+      "description": "AI 提问教练。把模糊需求变成精准 prompt，让 AI 给出更好的回答。触发：/提问",
       "source": "./",
       "strict": false,
       "version": "1.0.0",
